@@ -7,7 +7,7 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
   title: zdcxzxczxcvzxc<
-  description: ''
+  description: cx<zc<zczcx
   robots: []
   extra: []
   type: stackbit_page_meta
